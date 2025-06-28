@@ -13,7 +13,3 @@ A Streamlit dashboard to explore and visualize specifications of electric vehicl
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/ev-specs-streamlit.git
-cd ev-specs-streamlit
