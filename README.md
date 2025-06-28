@@ -1,6 +1,7 @@
 # 🔋 Electric Vehicles Spec Explorer (2025)
 
 A Streamlit dashboard to explore and visualize specifications of electric vehicles launched or expected in 2025.
+You can check out app at: https://electric-vehicle-specs-app-dyomtgw7tpebrghs9uqjvt.streamlit.app/
 
 ## 📊 Features
 - Filter by brand, body type, and range
